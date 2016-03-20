@@ -12,6 +12,7 @@ gem 'sqlite3'
 gem 'puma'
 
 gem 'sidekiq'
+gem 'foreman'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'

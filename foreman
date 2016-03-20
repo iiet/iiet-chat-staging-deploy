@@ -1,0 +1,2 @@
+web: RAILS_ENV=production rails s
+sidekiq: bundle exec sidekiq -L log/sidekiq.log -e production
